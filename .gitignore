@@ -1,3 +1,14 @@
 
 .DS_Store
 node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local secrets / env files
+.env
+*.env
+
+# Frontend build output
+frontend/dist/
